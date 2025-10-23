@@ -1,27 +1,9 @@
 # 🏥 HapiVet AI — Revolutionary Veterinary Automation Platform
 
-![HapiVet AI Banner](https://via.placeholder.com/1200x400?text=HapiVet+AI+-+Revolutionary+Veterinary+Automation+Platform)
-
 ---
 
 ### 🧠 Team Name: **Echo**  
 ### 📅 Submission Date: **October 23, 2025**  
-### 🐾 Tagline: *Empowering veterinary care through AI-driven efficiency and automation.*
-
----
-
-## 🏷️ Badges
-
-![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=nextdotjs)
-![React](https://img.shields.io/badge/React-19-blue?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.5-blue?logo=typescript)
-![Python](https://img.shields.io/badge/Python-3.10-yellow?logo=python)
-![Flask](https://img.shields.io/badge/Flask-2.3-black?logo=flask)
-![Node.js](https://img.shields.io/badge/Node.js-18-green?logo=nodedotjs)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.4-38B2AC?logo=tailwindcss)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-
 ---
 
 ## 📘 Table of Contents
