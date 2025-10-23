@@ -109,21 +109,24 @@ We designed **HapiVet AI** to tackle these challenges using automation, AI, and 
 ---
 
 ### **1️⃣ Clone the Repository**
+
 ```bash
 git clone https://github.com/your-username/hapivet-ai-website.git
 cd hapivet-ai-website
+```
 
 ### **2️⃣ Frontend Setup**
+
 ```bash
 npm install
 npm run dev
+```
 
 ## Access:
 ```bash
 Frontend: http://localhost:3000
-
 Backend: http://localhost:5000
-```bash
+```
 
 ### **3️⃣ Backend Setup (AI Engine)**
 
@@ -134,7 +137,7 @@ source venv/bin/activate   # macOS/Linux
 venv\Scripts\activate      # Windows
 pip install -r requirements.txt
 python app_minimal.py      # Runs Flask server
-
+```
 
 ## 🧠 Demo Scenarios
 
